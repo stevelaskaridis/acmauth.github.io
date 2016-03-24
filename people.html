@@ -1,0 +1,22 @@
+---
+layout: page
+navigation_title: People
+title: People
+cover: 'https://www.acm.org/binaries/content/gallery/acm/banners/2_generic_acm_banner.jpg/2_generic_acm_banner.jpg/acm%3Adesktopbanner'
+permalink: /people/
+---
+
+<table class="profile_pics">
+  {% for person in site.data.organisers %}
+    <tr>
+      <td>
+        <div class="profile_pic" style="background-image:url({{ person[1].photo }});"></div>
+        <p>{{ person[1].name }} • {{ person[1].role }}</p>
+        <p><a href="mailto:{{ person[1].email }}">{{ person[1].email }}</a> </p>
+      </td>
+      <td>
+        <p>{{ person[1].about }}</p>
+      </td>
+    </tr>
+  {% endfor %}
+</table>

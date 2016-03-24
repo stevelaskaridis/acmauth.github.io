@@ -2,24 +2,46 @@ Steve Laskaridis:
     name: Steve Laskaridis
     email: "laskstef@csd.auth.gr"
     photo: "../assets/people/stevelaskaridis.png"
+    role: Chair of ACM AUTh Chapter
+    about: |
+      Stefanos is a Computer Science – top of his class – undergraduate in Aristotle University of Thessaloniki, Greece, working in the Storage group of the CERN IT department. After 2 years as a developer and sysadmin in a GRID datacenter, his skills revolve around C/C++, Ruby, Python, Java and Linux. He’s experienced in Web and Distributed Applications development and keen on Big Data analytics and Machine Learning. His interests include programming, traveling and exercise. He also wants to change the world.
+     
 
 Alexandros Dorodoulis:
     name: Alexandros Dorodoulis
     email: "alexdoro@econ.auth.gr"
-    photo: "../assets/people/alexdorodoulis.png" 
+    photo: "../assets/people/alexandrosdorodoulis.png" 
+    role: Vice Chair of ACM AUTh Chapter
+    about: |
+
 
 Kostas Platis:
     name: Kostas Platis
     email: "platiskp@csd.auth.gr"
     photo: "../assets/people/kostasplatis.png"
+    role: Treasurer of ACM AUTh Chapter
+    about: |
+
 
 Katerina Intzevidou:
     name: Katerina Intzevidou
     email: "aintzevi@csd.auth.gr"
     photo: "../assets/people/katerinaintzevidou.png"
+    role: Secretary of ACM AUTh Chapter
+    about: |
+
 
 Filippos Lanaras:
     name: Filippos Lanaras
     email: "flanaras@csd.auth.gr"
     photo: "../assets/people/filipposlanaras.png"
+    role: Membership Chair of ACM AUTh Chapter
+    about: |
+
+Antigoni Founta:
+    name: Antigoni Founta
+    email: "a.m.founta@gmail.com"
+    photo: "../assets/people/antigonifounta.png"
+    role: Webmaster of ACM AUTh Chapter
+    about: |
 

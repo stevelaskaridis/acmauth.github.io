@@ -3,3 +3,21 @@ img.center {
     display: block;
     margin: auto;
 }
+
+table.profile_pics {
+  
+  tr, td {
+    padding: 20px;
+  }
+
+
+  div.profile_pic {
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+  }
+}
