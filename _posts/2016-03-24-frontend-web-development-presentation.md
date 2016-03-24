@@ -26,4 +26,4 @@ In order to follow the live demos, please bring your own device.
 There will also be discussions about ACM AUTh Chapter's new Web development team to be formed.
 
 
-<a href="../assets/frontend-web-development-presentation/WebDevelopmentPoster.png"><img class="poster center" src="../assets/WebDevelopmentPoster.png" alt="poster" /></a>
+<a href="../assets/frontend-web-development-presentation/WebDevelopmentPoster.png"><img class="poster center" src="../assets/frontend-web-development-presentation/WebDevelopmentPoster.png" alt="poster" /></a>
