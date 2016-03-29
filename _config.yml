@@ -31,3 +31,8 @@ future: true
 
 permalink: /event/:title.html
 
+# Collections
+collections:
+    teams:
+        output: true
+        permalink: /teams/
