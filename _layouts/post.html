@@ -25,7 +25,7 @@ layout: default
 
     {% if organiser.email %}
         <div>
-            <a href='mailto:{{organiser.email}}?subject=Register interest for {{page.title}} on {{ page.date | date: "%B %-d, %Y" }}&body=Hi! Im interested in your event. Can I come please?' class="button button-primary">Register Interest</a>
+            <a href='mailto:{{organiser.email}}?subject=Interest for {{page.title}} on {{ page.date | date: "%B %-d, %Y" }}&body=Hi! Im interested in your event. I would like to ask you the following question(s):' class="button button-primary">Contact presenter</a>
         </div>
     {% endif %}
 
