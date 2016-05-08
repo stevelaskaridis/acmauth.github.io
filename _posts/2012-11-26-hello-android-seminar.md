@@ -2,16 +2,13 @@
 layout: post
 
 # Event information
-title: "Hello Android: Hands-on Seminar"
+title: "Hands-on Seminar: Hello Android"
 cover: "../assets/hello-android-seminar/cover.png"
 date: 2012/11/26
 start_time: "17.00"
 end_time: "19.00"
 
 ---
-
-
-Hello Android: Hands-on Seminar
 
 Introduction to Android programming by chapter members George Piskas and Evangelos Motesnitsalis on Monday November 26th, 2012
 
