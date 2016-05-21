@@ -2,7 +2,7 @@
 layout: post
 
 # Event information
-title: "Chapter Welcomes first year CS students"
+title: "Chapter Welcomes 2014 first year CS students"
 cover: "../assets/freshman-introduction/cover.png"
 date: 2014/10/01
 start_time: "11.00"
