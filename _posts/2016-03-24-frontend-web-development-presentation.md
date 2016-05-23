@@ -13,6 +13,8 @@ organiser: "Katerina Intzevidou"
 
 ---
 
+Slides: [Webdev Essentials.pdf](../assets/frontend-web-development-presentation/Webdev Essentials.pdf)
+
 Introduction to **Frontend Web Development** basics.
 
 Skim through the core features of:
