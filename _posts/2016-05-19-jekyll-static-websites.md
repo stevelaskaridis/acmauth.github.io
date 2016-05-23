@@ -13,6 +13,8 @@ organiser: "Alexandros Dorodoulis"
 
 ---
 
+Slides: [Intro to Jekyll.pdf](../assets/jekyll-static-websites/Intro to Jekyll.pdf)
+
 ## About Jekyll
 
 Jekyll is a Ruby-based framework that enables its users to build simple, static and blog-aware webpages without the need for a database.
