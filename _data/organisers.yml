@@ -6,7 +6,7 @@ Steve Laskaridis:
 Alexandros Dorodoulis:
     name: Alexandros Dorodoulis
     email: "alexdoro@econ.auth.gr"
-    photo: "../assets/people/alexdorodoulis.jpg" 
+    photo: "../assets/people/alexdorodoulis.jpg"
 
 Kostas Platis:
     name: Kostas Platis
@@ -22,3 +22,8 @@ Filippos Lanaras:
     name: Filippos Lanaras
     email: "flanaras@csd.auth.gr"
     photo: "../assets/people/filipposlanaras.png"
+
+Antigoni Founta:
+    name: Antigoni Founta
+    email: "antifou@gmail.com"
+    photo: "../assets/people/antigonifounta.jpg"
