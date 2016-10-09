@@ -19,6 +19,11 @@ Just bring your laptop and your good mood and we promise a great event, full of 
 
 Wikimedia Österreich offers 2 full scholarships to attend Wikimedia Hackathon 2017 in Vienna (May 19-21) to the participants.
 
+Catering is sponsored by E-Food.gr
+
+* Registration [form](https://docs.google.com/forms/d/e/1FAIpQLScndvfWK2sggLG7jYiVjhHXM2tQjjszYBQuB-M_2Sfvf_xx2g/viewform)
+* Facebook [event](https://www.facebook.com/events/333420780326262/)
+
 ## Venue
 
 ```
@@ -43,6 +48,5 @@ KEDEA AUTh
 18:30 – 19:00 Closing Ceremony – Awards
 19:00 - 03:00 After party
 ```
-Facebook [event](https://www.facebook.com/events/333420780326262/)
 
 <p><a href="../assets/thesshack-wiki-hackathon/poster.png"><img class="center" alt="thesshack-wiki-hackathon-poster" height="1024" width="724" src="../assets/thesshack-wiki-hackathon/poster.png"/></a></p>
