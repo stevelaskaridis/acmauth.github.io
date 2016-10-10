@@ -36,17 +36,19 @@ KEDEA AUTh
 ## Preliminary program
 
 ```
-09:00 – 09:30 Registrations
-09:30 – 10:00 Welcome
-10:00 – 10:10: DBpedia
-10:10 – 10:20: AutoWikiBrowser
-10:20 – 10:30: Phabricator
-10:30 – 10:50: theSShack Guidelines
-10:50 – 13:30 Hacking
-13:30 – 14:30 Food & Networking Break
-14:30 – 18:30 Hacking
-18:30 – 19:00 Closing Ceremony – Awards
-19:00 - 03:00 After party
+09:00–09:30 Registrations
+09:30–10:00 Welcome
+10:00–10:10 DBpedia
+10:10–10:20 AutoWikiBrowser
+10:20–10:30 Phabricator
+10:30–10:40 API
+10:40–11:00 theSShack Guidelines
+11:00–13:30 Hacking
+13:30–14:30 Food & Networking Break
+14:30–18:30 Hacking
+18:30–19:00 Closing Ceremony – Awards
+19:00–20:00 Pizza time! (sponsored by e-food.gr)
+20:00-03:00 After party
 ```
 
 <p><a href="../assets/thesshack-wiki-hackathon/poster.png"><img class="center" alt="thesshack-wiki-hackathon-poster" height="1024" width="724" src="../assets/thesshack-wiki-hackathon/poster.png"/></a></p>
