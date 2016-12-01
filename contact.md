@@ -8,7 +8,7 @@ permalink: /contact/
 
 ## Contact details
 
-|e-mail|[acmchapter@auth.gr](mailto:acmchapter@auth.gr)|
+|e-mail|[acmchapter@auth.gr](mailto:acmauthchapter@gmail.com)|
 |Facebook page|[ACM Student Chapter AUTH](https://www.facebook.com/acmauth/?ref=aymt_homepage_panel)|
 |Twitter page|[@acm_auth](https://twitter.com/acm_auth)|
 |Github page|[@acmauth](https://github.com/acmauth)|
