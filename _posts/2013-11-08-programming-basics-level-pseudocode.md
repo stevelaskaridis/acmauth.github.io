@@ -7,6 +7,7 @@ cover: "../assets/programming-basics-level-pseudocode/cover.png"
 date: 2013/11/08
 start_time: "12.00"
 end_time: "14.00"
+organiser: "Dimitris Sarigiannis"
 
 ---
 
