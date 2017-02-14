@@ -20,10 +20,15 @@ Katerina Intzevidou:
 
 Filippos Lanaras:
     name: Filippos Lanaras
-    email: "flanaras@csd.auth.gr"
+    email: "flanaras@acm.org"
     photo: "../assets/people/filipposlanaras.png"
 
 Antigoni Founta:
     name: Antigoni Founta
     email: "antifou@gmail.com"
     photo: "../assets/people/antigonifounta.jpg"
+
+Dimitris Sarigiannis:
+    name: Dimitris Sarigiannis
+    email: "saridimi@gmail.com"
+    photo: "../assets/people/dimitrissarigiannis.jpeg"
