@@ -13,6 +13,8 @@ organiser: "Steve Laskaridis"
 
 ---
 
+Presentation: [IntroductionToLinux.pdf](https://drive.google.com/open?id=0B4STG7GuyfowaWFhWTFyeGJLNFE)
+
 Την **Τρίτη 14/03**, στις **18:00**, θα πραγματοποιηθεί παρουσίαση πάνω σε βασικές αρχές
 και λειτουργίες του λειτουργικού σύστηματος των GNU/Linux.
 
